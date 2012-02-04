@@ -1,0 +1,6 @@
+My first attempt @ capturing a twitter stream on the IOS platform.
+Example follows Randal Schwartz' twitter timeline (my Perl hero!).
+Enhancements would include:
+Segue to 2nd screen to view Tweet details.
+Caching of tweets for offline mode.
+Enhanced interaction with twitter api for tweeting, retweeting, marking favorites.
